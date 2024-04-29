@@ -1,0 +1,19 @@
+#input{
+    top: 10%;
+    width: 30%;
+    height: 40px;
+    border: 2px;
+    outline: none;
+    background-color: rgb(160, 5, 174);
+    color: #fff;
+
+}
+.box{
+    height: 40px;
+    width: 40px;
+    display: flex;
+    justify-items: center;
+    place-items: center;
+    background-color: chartreuse;
+    
+}
